@@ -1,5 +1,5 @@
 # PDFSplitter
-o	The code is written in Java and is designed to split PDF files.
+	The code is written in Java and is designed to split PDF files.
 o	The user interface is created using the Swing library, which provides a set of GUI components for Java programs.
 o	The GUI consists of a JFrame window, which contains a main JPanel that is used to organize the components.
 o	The main JPanel has two sub-panels: a form panel and a button panel.
